@@ -1,0 +1,5 @@
+Stock, Buy to Open, EUR, USD, 0.0, 0.0
+Stock, Buy to Open, EUR, USD, 0.0, 0.0
+Stock, Buy to Open, EUR, USD, 0.0, 0.0
+Stock, Buy to Open, EUR, USD, 0.0, 0.0
+Stock, Buy to Open, EUR, USD, 0.0, 0.0

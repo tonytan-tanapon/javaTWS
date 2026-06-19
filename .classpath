@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="samples/DdeSocketBridge/src/main/java"/>
+	<classpathentry kind="src" path="samples/Java"/>
+	<classpathentry kind="src" path="source/JavaClient"/>
+	<classpathentry kind="lib" path="samples/DdeSocketBridge/DdeSocketBridge.jar"/>
+	<classpathentry kind="lib" path="samples/DdeSocketBridge/src/main/resources/pretty-tools-JDDE-2.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
